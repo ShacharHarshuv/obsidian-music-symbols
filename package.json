@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "obsidian-music-symbols",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "Obsidian plugin to easily display beautiful musical symbols for music theory like note names, chords and roman numerals",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
